@@ -1,0 +1,2 @@
+I have successfully completed the AWS Academy Graduate - AWS Academy Data Engineering course. This program has equipped me with in-depth knowledge and hands-on experience in data engineering on AWS, including designing, deploying, and managing scalable data infrastructure. This achievement reflects my commitment to mastering cloud-based data solutions and furthering my expertise in the field of data engineering.
+![Image Alt](https://github.com/arpita-devlops/AWS-Data-Engineering-Certificate/blob/main/aws-academy-graduate-aws-academy-data-engineering.png?raw=true).
